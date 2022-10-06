@@ -83,10 +83,10 @@ a{
 
 
 .x::after{
-    content: ❌;
+    content: '❌';
 }
 .o::after{
-    content: ⭕️;
+    content: '⭕️';
 }
 
 .disabled{
